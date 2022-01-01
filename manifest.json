@@ -1,11 +1,11 @@
 {
-    "name": "flutter_new_years_2022",
-    "short_name": "flutter_new_years_2022",
+    "name": "flutter_greetings_2022",
+    "short_name": "flutter_greetings_2022",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A happy new years card in the form of a web app!",
+    "description": "A digital card for 2022!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
